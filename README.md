@@ -14,6 +14,7 @@
  - Função zip
 
 
+
 # Python for Data Science and Data Analysis - Pandas
 Introduction to the Pandas package. Some examples and tips to help your Pandas package learning.
 
