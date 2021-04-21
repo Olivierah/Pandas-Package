@@ -12,6 +12,9 @@
  - Iterações em Tuplas
  - Desempacotamento de uma Tupla
  - Função zip
+ - Dicionários
+ - Criando um dicionário com o zip
+ - Operações com dicionários ([key], in / not in, len. del)
 
 
 
@@ -29,3 +32,6 @@ Introduction to the Pandas package. Some examples and tips to help your Pandas p
 - Tuple Iterations
 - Unpacking Tuples
 - zip function
+- Dictionaries
+- Create dictionary - zip
+- Dictionary operations ([key], in / not in, len. del)
