@@ -21,7 +21,7 @@ Introduction to the Pandas package. Some examples and tips to help your Pandas p
 - introduction to Pandas
 - Importing Pandas
 - Uploading files - Google Colab
-- Reading the CSV files
+- Reading CSV files
 - Data visualization and data types
 - Built-in Functions
 - Tuples
