@@ -15,6 +15,7 @@
  - Dicionários
  - Criando um dicionário com o zip
  - Operações com dicionários ([key], in / not in, len, del)
+ - Métodos - Dicionários (update, copy, pop)
 
 
 
@@ -35,3 +36,4 @@ Introduction to the Pandas package. Some examples and tips to help your Pandas p
 - Dictionaries
 - Create dictionary - zip
 - Dictionary operations ([key], in / not in, len, del)
+- Dictionary methods (update, copy, pop)
