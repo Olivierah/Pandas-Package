@@ -14,8 +14,9 @@
  - Função zip
  - Dicionários
  - Criando um dicionário com o zip
- - Operações com dicionários ([key], in / not in, len, del)
- - Métodos - Dicionários (update, copy, pop, clear)
+ - Algumas operações com dicionários ([key], in / not in, len, del)
+ - Alguns métodos de dicionários (update, copy, pop, clear)
+ - Algumas iterações com dicionários (keys, values, items)
 
 
 
@@ -30,10 +31,11 @@ Introduction to the Pandas package. Some examples and tips to help your Pandas p
 - Built-in Functions
 - Tuples
 - Tuple manipulation
-- Tuple Iterations
+- Tuple iterations
 - Unpacking Tuples
 - zip function
 - Dictionaries
 - Create dictionary - zip
-- Dictionary operations ([key], in / not in, len, del)
-- Dictionary methods (update, copy, pop, clear)
+- Some dictionary operations ([key], in / not in, len, del)
+- Some dictionary methods (update, copy, pop, clear)
+- Some dictionary iterations (keys, values, items)
