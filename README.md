@@ -24,6 +24,8 @@
  - Seleção de linhas
  - .loc
  - .iloc
+ - Consultas (Query) com DataFrame
+ - Método query
 
 
 # Python for Data Science and Data Analysis - Pandas
@@ -52,3 +54,5 @@ Introduction to the Pandas package. Some examples and tips to help your Pandas p
 - Rows selection
 - .loc
 - .iloc
+- DataFrame query
+- Query method
