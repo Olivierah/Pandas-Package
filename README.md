@@ -17,7 +17,10 @@
  - Algumas operações com dicionários ([key], in / not in, len, del)
  - Alguns métodos de dicionários (update, copy, pop, clear)
  - Algumas iterações com dicionários (keys, values, items)
-
+ - Estrutura de dados - Series
+ - Criando um DataFrame a partir de uma lista de dicionários
+ - Criando um DataFrame a partitir de um dicionário com listas de valores
+ - Seleção de dados no DataFrame
 
 
 # Python for Data Science and Data Analysis - Pandas
@@ -39,3 +42,7 @@ Introduction to the Pandas package. Some examples and tips to help your Pandas p
 - Some dictionary operations ([key], in / not in, len, del)
 - Some dictionary methods (update, copy, pop, clear)
 - Some dictionary iterations (keys, values, items)
+- Data structure - Series
+- New DataFrame from a dictionary list
+- New DataFrame from a dictionary valures list
+- Data selection 
