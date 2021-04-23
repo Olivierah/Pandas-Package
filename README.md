@@ -12,6 +12,11 @@
  - Iterações em Tuplas
  - Desempacotamento de uma Tupla
  - Função zip
+ - Dicionários
+ - Criando um dicionário com o zip
+ - Algumas operações com dicionários ([key], in / not in, len, del)
+ - Alguns métodos de dicionários (update, copy, pop, clear)
+ - Algumas iterações com dicionários (keys, values, items)
 
 
 
@@ -21,11 +26,16 @@ Introduction to the Pandas package. Some examples and tips to help your Pandas p
 - introduction to Pandas
 - Importing Pandas
 - Uploading files - Google Colab
-- Reading the CSV files
+- Reading CSV files
 - Data visualization and data types
 - Built-in Functions
 - Tuples
 - Tuple manipulation
-- Tuple Iterations
+- Tuple iterations
 - Unpacking Tuples
 - zip function
+- Dictionaries
+- Create dictionary - zip
+- Some dictionary operations ([key], in / not in, len, del)
+- Some dictionary methods (update, copy, pop, clear)
+- Some dictionary iterations (keys, values, items)
